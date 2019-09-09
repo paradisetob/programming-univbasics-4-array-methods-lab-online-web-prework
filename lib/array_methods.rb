@@ -26,5 +26,5 @@ end
 
 def using_size(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-
+array.size
 end
